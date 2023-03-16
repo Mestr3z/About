@@ -4,8 +4,8 @@
 
 ## My name is Vlad, I am engaged in frontend development
 
-- 🔭 I’m currently working on an application for a burger on the react
-- 🌱 I’m currently learning React
+- 🔭 I'm currently working on a weatherApp and a chessApp
+- 🌱 I’m currently learning TypeScript, mySQL
 - 💬 Ask me about anything
 - 📫 How to reach me: Mestr3z on everywhere
 
