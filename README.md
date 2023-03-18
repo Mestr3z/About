@@ -13,7 +13,8 @@
 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/875875f/)
 &nbsp;&nbsp;
-
+[![website](./img/telegram.svg)](https://t.me/Mestr3z)
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
